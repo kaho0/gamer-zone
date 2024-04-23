@@ -1,0 +1,53 @@
+* {
+    font-family: "Poppins", sans-serif;
+
+}
+header {
+    max-width: 1920px;
+}
+.nav-container {
+    width: 1440px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 40px 130px;
+
+}
+.nav-title {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+
+}
+.frame {
+    width: 90px;
+    height: 40px;
+
+
+}
+.game {
+    font-size: 2.8rem;
+    font-weight: 700;
+    color: rgb(11, 2, 35);
+
+
+}
+.gamer-g{
+    color: rgb(255, 66, 165);
+}
+.menu-container a {
+    text-decoration: none;
+    margin-right: 30px;
+    color: rgb(60, 53, 79);
+    font-size: 1, 1rem;
+}
+.follow-us {
+    background: rgba(11, 2, 35, 0.1);
+    padding: 17px 24px;
+    gap: 5px;
+}
+.nav-icon{
+    width: 33px;
+}
